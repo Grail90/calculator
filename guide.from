@@ -1,0 +1,7 @@
+turn to an array using array.from 
+program the display to show buttons
+
+  console.log('clicked');
+    console.log(e);
+    console.log(e.target);
+    console.log(e.target.innerText);   to check if it works
